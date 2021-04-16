@@ -1,0 +1,16 @@
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\PokeBattle.exe
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\PokeBattle.deps.json
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\PokeBattle.runtimeconfig.json
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\PokeBattle.runtimeconfig.dev.json
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\PokeBattle.dll
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\ref\PokeBattle.dll
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\bin\Debug\net5.0\PokeBattle.pdb
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.csprojAssemblyReference.cache
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.AssemblyInfoInputs.cache
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.AssemblyInfo.cs
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.csproj.CoreCompileInputs.cache
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.dll
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\ref\PokeBattle.dll
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.pdb
+D:\Jaar 2\OOP-PokeBattle\PokeBattle\PokeBattle\obj\Debug\net5.0\PokeBattle.genruntimeconfig.cache
