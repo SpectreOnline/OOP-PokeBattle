@@ -22,7 +22,7 @@ namespace PokeBattle.classes
 
         public string Weaknesses { get; set; }
 
-        public string Resistences { get; set; }
+        public string Resistances { get; set; }
 
         public List<AttackClass> Attacks { get; set; }
     }

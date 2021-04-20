@@ -1,0 +1,8 @@
+
+*.dll
+
+PokeBattle/.vs/PokeBattle/v16/.suo
+
+*.pdb
+
+*.cache
