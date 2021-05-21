@@ -12,8 +12,21 @@ namespace PokeBattle.classes
 
         public int Damage { get; set; }
 
-        public string Energytype { get; set; }
+        public EnergyType Energytype { get; set; }
 
         public int Priority { get; set; }
+
+        public AttackClass() { }
+
+        public AttackClass(string name, int damage, EnergyType energytype, int priority = 1) 
+        {
+            Name = name;
+
+            Damage = damage;
+
+            Energytype = energytype;
+
+            Priority = priority;
+        }
     }
 }

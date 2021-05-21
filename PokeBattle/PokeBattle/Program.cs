@@ -1,4 +1,5 @@
 ﻿using PokeBattle.classes;
+using Utilities.Pokemon;
 using System;
 
 namespace PokeBattle
@@ -37,7 +38,7 @@ namespace PokeBattle
         static string askPokemonQuestion(int questionNum)
         {
             string[] userInputQuestion = {
-            "Please select a pokemon",
+            "Please select a pokemon by using a number",
             "Would you like to give them a nickname?",
             "What would you like their nickname to be?",
             };

@@ -12,7 +12,7 @@ namespace PokeBattle.classes
 
         public string NickName { get; set; }
 
-        public string EnergyType { get; set; }
+        public EnergyType EnergyType { get; set; }
 
         public int MaxHP { get; set; }
 
@@ -20,10 +20,25 @@ namespace PokeBattle.classes
 
         public int Speed { get; set; }
 
-        public string Weaknesses { get; set; }
-
-        public string Resistances { get; set; }
-
         public List<AttackClass> Attacks { get; set; }
+
+        public PokemonClass() { }
+
+        public PokemonClass(string name, string nickname, EnergyType energytype, int maxhp, int currenthp, int speed, List<AttackClass> attacks)
+        {
+            Name = name;
+
+            NickName = nickname;
+
+            EnergyType = energytype;
+
+            MaxHP = maxhp;
+
+            CurrentHP = currenthp;
+
+            Speed = speed;
+
+            Attacks = attacks;
+        }
     }
 }
