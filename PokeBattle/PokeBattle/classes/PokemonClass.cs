@@ -40,5 +40,20 @@ namespace PokeBattle.classes
 
             Attacks = attacks;
         }
+
+        public string Damage(PokemonClass target, AttackClass chosenAttack)
+        {
+            if (target.EnergyType == chosenAttack.Energytype)
+            {
+                target.CurrentHP -= (chosenAttack.Damage - target.EnergyType.ResistanceValue);
+            }
+            else {
+                target.CurrentHP -= chosenAttack.Damage;
+            }
+
+            string damageMessage = (this.Name + " attacked " + target.Name + " with " + chosenAttack.Name + " " + target.Name + " has " + target.CurrentHP + " HP left");
+
+            return damageMessage;
+        }
     }
 }

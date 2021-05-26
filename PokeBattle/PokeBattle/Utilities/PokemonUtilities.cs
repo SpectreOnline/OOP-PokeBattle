@@ -19,9 +19,10 @@ namespace Utilities.Pokemon
         public static EnergyType Fire = new EnergyType("Fire", fireResistances, 10, fireWeaknesses, 2);
         public static EnergyType Lightning = new EnergyType("Lightning", lightningResistances, 20, lightningWeaknesses, 1.5);
         public static EnergyType Fighting = new EnergyType();
+        public static EnergyType Water = new EnergyType();
 
         public static List<AttackClass> CharmeleonAttacks = new List<AttackClass>(new AttackClass[] { new AttackClass("Headbutt", 10, Fighting), new AttackClass("Flare", 30, Fire)});
-        public static List<AttackClass> PikachuAttacks = new List<AttackClass>(new AttackClass[] { });
+        public static List<AttackClass> PikachuAttacks = new List<AttackClass>(new AttackClass[] { new AttackClass("Electric Ring", 50, Lightning), new AttackClass("Pika Punch", 20, Fighting) });
 
         public static List<PokemonClass> PokemonList = CreateStarterPokemon();
 
